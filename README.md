@@ -1,18 +1,1 @@
-## Hi there 👋
-My name is Livia, I'm eighteen years old
-I want to be a veterinarian
-I like animals and moon
-<!--
-**livinha3A/livinha3A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on photography
-- 🌱 I’m currently learning technology
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with God
-- 💬 Ask me about veterinary
-- 📫 How to reach me: @livialima_46 
-- 😄 Pronouns: she,her 
-- ⚡ Fun fact: I don't have
--->
+<p xmlns:cc="http://creativecommons.org/ns#" >Este trabalho está licenciado sob <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom ;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical -align:texto inferior;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
